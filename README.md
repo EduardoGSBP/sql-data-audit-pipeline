@@ -22,31 +22,4 @@ Remova dados inválidos ou obsoletos
 
 Tudo isso sem modificar diretamente os dados críticos no início do processo.
 
-🗂️ Estrutura do Repositório
-sql-projeto-auditoria/
-│
-├── README.md
-├── schema/
-│ └── 01_criacao_tabela_vendas.sql
-│
-├── temp_tables/
-│ ├── 02_tabelas_temporarias.sql
-│ └── 03_uso_avancado_temp_tables.sql
-│
-├── backup/
-│ ├── 04_tabela_backup_simples.sql
-│ └── 05_tabela_espelho_completa.sql
-│
-├── alter_update/
-│ ├── 06_alter_table_nova_coluna.sql
-│ ├── 07_update_basico.sql
-│ ├── 08_update_com_criterios.sql
-│ └── 09_update_avancado.sql
-│
-├── delete/
-│ ├── 10_delete_basico.sql
-│ ├── 11_delete_com_criterios.sql
-│ └── 12_delete_avancado_datediff.sql
-│
-└── docs/
-└── fluxo_do_projeto.md
+
